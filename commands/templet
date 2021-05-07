@@ -1,0 +1,16 @@
+const Discord = require('discord.js');
+const config = require("../config.json");
+const grey = config.grey
+const memberLogs = config.memberLogs
+const print = console.log
+
+module.exports = {
+
+    name: 'cmd name here',
+    aliases: ['you aliases', 'go here'],
+    description: 'This is where you put the descip',
+    args: true,
+    execute(message, client, args) {
+
+     }
+    }
