@@ -1,0 +1,9 @@
+
+{
+    "token": "TOKEN-HERE",
+    "prefix": "!!",
+    "agreeCMD": "-agree",
+    "grey": "36393f",
+    "red": "ff0000",
+    "botAdmin": ["ARRAY-OF-IDS"]
+  }
